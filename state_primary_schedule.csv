@@ -1,0 +1,51 @@
+State,Date,Democrat,Republican
+Iowa,2016-02-01,1,1
+New Hampshire,2016-02-09,1,1
+Nevada,2016-02-20,1,0
+South Carolina,2016-02-20,0,1
+Nevada,2016-02-23,0,1
+South Carolina,2016-02-27,1,0
+Alabama,2016-03-01,1,1
+Alaska,2016-03-01,0,1
+Arkansas,2016-03-01,1,1
+Colorado,2016-03-01,1,1
+Georgia,2016-03-01,1,1
+Massachusetts,2016-03-01,1,1
+Minnesota,2016-03-01,1,1
+North Dakota,2016-03-01,0,1
+Oklahoma,2016-03-01,1,1
+Tennessee,2016-03-01,1,1
+Texas,2016-03-01,1,1
+Vermont,2016-03-01,1,1
+Virginia,2016-03-01,1,1
+Kansas,2016-03-05,1,1
+Kentucky,2016-03-05,0,1
+Louisiana,2016-03-05,1,1
+Maine,2016-03-05,0,1
+Nebraska,2016-03-05,1,0
+Maine,2016-03-06,1,0
+Hawaii,2016-03-08,0,1
+Idaho,2016-03-08,0,1
+Michigan,2016-03-08,1,1
+Mississippi,2016-03-08,1,1
+District of Columbia,2016-03-12,0,1
+Wyoming,2016-03-12,0,1
+Florida,2016-03-15,1,1
+Illinois,2016-03-15,1,1
+Missouri,2016-03-15,1,1
+North Carolina,2016-03-15,1,1
+Ohio,2016-03-15,1,1
+Arizona,2016-03-22,1,1
+Idaho,2016-03-22,1,0
+Utah,2016-03-22,1,1
+Alaska,2016-03-26,1,0
+Hawaii,2016-03-26,1,0
+Washington,2016-03-26,1,0
+Wisconsin,2016-04-05,1,1
+Wyoming,2016-04-09,1,0
+New York,2016-04-19,1,1
+Connecticut,2016-04-26,1,1
+Delaware,2016-04-26,1,1
+Maryland,2016-04-26,1,1
+Pennsylvania,2016-04-26,1,1
+Rhode Island,2016-04-26,1,1
